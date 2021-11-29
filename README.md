@@ -1,4 +1,4 @@
-# Project A8: Analysis of smart bike data in correspondence to weather and coronavirus data
+# Project A8: Analysis of smart bike data in correspondence to weather and coronavirus test data
 
 ## Team members
 
@@ -15,4 +15,4 @@
 ## Goals
 
 - Goal 1: Finding connection (via a model) between weather data, last 7 day coronavirus data in Tartu(to given) and Tartu bike data
-- Goal 2: 
+- Goal 2:
